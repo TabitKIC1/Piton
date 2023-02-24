@@ -31,7 +31,7 @@
 # -> 5
 
 
-# l = input()
+# s = input()
 # numbers = list(map(int, input().strip().split()))
 # x = int(input().strip())
 
